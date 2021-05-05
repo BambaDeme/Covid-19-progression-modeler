@@ -12,12 +12,7 @@ import cv2
 
 
 def getText(image):    
-    #path_to_tesseract = r"/opt/homebrew/Cellar/tesseract/4.1.1/bin/tesseract"
-    # path_to_tesseract = <-- pathToTesseract here
-
-    """img = cv2.imread(image)
-    img = cv2.medianBlur(img,5)
-    img1 = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)"""
+    
     
     image_path = image
     img = Image.open(image_path)

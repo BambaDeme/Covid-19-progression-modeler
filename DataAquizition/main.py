@@ -78,7 +78,7 @@ def extractor(images,date):
     cases = DataExtractor.exportIntoJson(cas["cas"])
     #print(cases)
     DataExtractor.exportToFile(date,tests_realises,cas_positifs,cas_contact,cas_coms,nombre_gueris,nombre_deces,cases)
-    
+
 def downloader():
     nest_asyncio.apply()
 
@@ -115,24 +115,6 @@ def downloader():
         extractor(images,date)
 
 
-"""for line in open('communiques.json', 'r'):
-        
-    i=1
-    tweet = json.loads(line)
-    urls = tweet["photos"]
-    date = tweet["date"]
-    images=[]
-    for url in urls:
-        nom = url.split("/")
-        nom = nom[len(nom)-1]
-        response = requests.get(url)
-        
-        with open("images/"+nom, "wb") as f:
-            f.write(response.content)
-        images.append("images/"+nom)
-    print(images)
-    extractor(images,date)"""
-#extractor(["images/EvERJVXXEAEl8e-.jpg","images/EvERMP0XIAEMc8o.jpg"])
 
 # fonction qui vérifie si une date existe dans les communiqués
 def findDate(date):
