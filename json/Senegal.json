@@ -1,0 +1,528 @@
+[
+  {
+    "region": "DAKAR",
+    "departements": [
+      {
+        "departement": "Dakar",
+        "communes": ["Dakar"],
+        "arronds": [
+          "DAKAR-PLATEAU",
+          "GRAND DAKAR",
+          "ALMADIES",
+          "PARCELLES ASSAINIES"
+        ],
+        "comard": [
+          "Goree",
+          "Dakar",
+          "Plateau",
+          "Gueule Tapee",
+          "Fass-Colobane",
+          "Fann",
+          "Point E",
+          "Amitie",
+          "Grand Dakar",
+          "Biscuiterie",
+          "Dieuppeul",
+          "Derkle",
+          "gibraltar",
+          "cite horizon",
+          "cite soprim",
+          "cite apecsy",
+          "nord foire",
+          "ouest foire",
+          "Hann",
+          "Bel Air",
+          "ouagou niaye",
+          "Maristes",
+          "Sicap",
+          "Liberte",
+          "HLM",
+          "Mermoz ",
+          "Sacre Cœur",
+          "Ouakam",
+          "Ngor",
+          "Yoff",
+          "Grand Yoff",
+          "Patte DOie",
+          "Parcelles Assainies",
+          "Camberene",
+          "zone de captage",
+          "fass",
+          "fass-delorme",
+          "scat-urbam",
+          "bourguiba",
+          "mamelles",
+          "niary-taly",
+          "yarakh",
+          "cite-comico",
+          "cite aliou sow",
+          "cite fadia",
+          "cite las palmas",
+          "cite-keur-damel",
+          "cite-keur-gorgui",
+          "keur-mbaye-fall",
+          "bopp",
+          "cite isra",
+          "centenaire",
+          "cite capverdienne",
+          "kounoune"
+        ]
+      },
+      {
+        "departement": "GUEDIAWAYE",
+        "communes": ["Guediawaye", "Pikine"],
+        "arronds": ["GUEDIAWAYE", "THIAROYE", "NIAYES", "PIKINE DAGOUDAN"],
+        "comard": [
+          "Golf Sud",
+          "Sam Notaire",
+          "Ndiareme Limamoulaye",
+          "Medina Gounass",
+          "Wakhinane Nimzath",
+          "Thiaroye Gare",
+          "Mbao",
+          "Thiaroye sur Mer",
+          "Tivaouane",
+          "Diack Sao",
+          "Diamagueune",
+          "Sicap Mbao",
+          "Keur Massar",
+          "Malika",
+          "Yeumbeul Nord",
+          "Yeumbeul Sud",
+          "Pikine Ouest",
+          "Pikine Est",
+          "Pikine Nord",
+          "Dalifort",
+          "Djidah Thiaroye Kao",
+          "Guinaw Rail Nord",
+          "Guinaw Rail Sud",
+          "ben taly",
+          "gnary taly",
+          "cite tacko"
+        ]
+      },
+      {
+        "departement": "RUFISQUE",
+        "communes": ["Rufisque"],
+        "arronds": ["RUFISQUE - EST", "SANGALKAM"],
+        "comard": [
+          "Rufisque Est",
+          "Bargny",
+          "Rufisque Nord",
+          "Diamniadio",
+          "Rufisque Ouest",
+          "Sebikotane",
+          "zac mbao",
+          "grand mbao",
+          "bambilor",
+          "cap des biches",
+          "yene"
+        ]
+      }
+    ]
+  },
+  {
+    "region": "DIOURBEL",
+    "departements": [
+      {
+        "departement": "BAMBEY",
+        "communes": ["Bambey"],
+        "arronds": ["BABA GARAGE", "NGOYE Ngoye", "LAMBAYE"],
+        "comard": [
+          "Dinguiraye",
+          "Baba Garage",
+          "Keur Samba Kane",
+          "Thiakhar",
+          "Ndondol",
+          "Ndangalma",
+          "Lambaye",
+          "Refane",
+          "Gawane",
+          "Ngogom"
+        ]
+      },
+      {
+        "departement": "DIOURBEL",
+        "communes": ["Diourbel"],
+        "arronds": ["NDOULO", "NDINDY"],
+        "comard": [
+          "Ndoulo",
+          "Ngohe",
+          "Pattar",
+          "Tocky Gare",
+          "Toure Mbonde",
+          "Ndankh Sene",
+          "Gade Escale",
+          "Keur Ngalgou",
+          "Ndindy",
+          "Taiba Moutoupha"
+        ]
+      },
+      {
+        "departement": "MBACKE",
+        "communes": ["Mbacke"],
+        "arronds": ["NDAME", "Kael", "TAIF"],
+        "comard": [
+          "Touba Mosquee",
+          "Dalla Ngabou",
+          "Missirah",
+          "Nghaye",
+          "Touba Fall",
+          "Madina",
+          "KAEL Touba Mboul",
+          "Dendeye Gouy Gui",
+          "Ndioumane Taiba Thiekene",
+          "Taif",
+          "Sadio"
+        ]
+      }
+    ]
+  },
+  {
+    "region": "FATICK",
+    "departements": [
+      {
+        "departement": "FATICK",
+        "communes": ["Fatick", "dioffior"],
+        "arronds": ["DIAKHAO", "FIMELA", "NIAKHAR", "TATTAGUINE", "TOUBACOUTA"],
+        "comard": []
+      },
+      {
+        "departement": "FOUNDIOUGNE",
+        "communes": ["Foundiougne Passy", "Sokone", "Soum Karang Post"],
+        "arronds": ["DJILOR", "NIODIOR", "COLOBANE"],
+        "comard": []
+      },
+      {
+        "departement": "GOSSAS",
+        "communes": ["Gossas"],
+        "arronds": ["OUADIOUR"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "KAFFRINE",
+    "departements": [
+      {
+        "departement": "BIRKILANE",
+        "communes": [],
+        "arronds": ["BIRKILANE", "MABO", "KEUR MBOUKI"],
+        "comard": ["birkelane", "birkilane"]
+      },
+      {
+        "departement": "KAFFRINE",
+        "communes": ["Kaffrine", "Nganda"],
+        "arronds": ["KATAKEL", "GNIBY"],
+        "comard": []
+      },
+      {
+        "departement": "KOUNGHEUL",
+        "communes": ["Koungheul"],
+        "arronds": ["MISSIRAH WADENE", "IDA MOURIDE", "LOUR ESCALE"],
+        "comard": []
+      },
+      {
+        "departement": "MALEM HODDAR",
+        "communes": ["Malem Hoddar"],
+        "arronds": ["DAROU MINAME 2", "SAGNA"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "KAOLACK",
+    "departements": [
+      {
+        "departement": "Guinguineo",
+        "communes": ["Guinguineo"],
+        "arronds": ["Mbadakhoune", "NGUELOU"],
+        "comard": []
+      },
+      {
+        "departement": "KAOLACK",
+        "communes": ["Kaolack", "Kahone", "Ndoffane", "Gandiaye"],
+        "arronds": ["KOUMBAL", "NDIEDIENG", "SIBASSOR"],
+        "comard": []
+      },
+      {
+        "departement": "NIORO",
+        "communes": ["Nioro Keur Madiabel"],
+        "arronds": ["MEDINA SABAKH", "PAOS KOTO", "WACK NGOUNA"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "KEDOUGOU",
+    "departements": [
+      {
+        "departement": "KEDOUGOU",
+        "communes": ["Kedougou"],
+        "arronds": ["BANDAFASSI", "FONGOLIMBI"],
+        "comard": []
+      },
+      {
+        "departement": "SALEMATA",
+        "communes": ["Salemata"],
+        "arronds": ["DAKATELI", "DAR SALAM"],
+        "comard": []
+      },
+      {
+        "departement": "SARAYA",
+        "communes": ["Saraya"],
+        "arronds": ["BEMBOU", "SABODALA"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "KOLDA",
+    "departements": [
+      {
+        "departement": "KOLDA",
+        "communes": ["Kolda", "Dabo", "Salikegne Sare YobaDiega "],
+        "arronds": ["MAMPATIM", "SARE BIDJI", "DIOULACOLON"],
+        "comard": []
+      },
+      {
+        "departement": "MEDINA YORO FOULAH",
+        "communes": ["Medina Yoro Foulah Pata"],
+        "arronds": [
+          "FAFACOUROU Badion Fafacourou",
+          "NDORNA",
+          "NIAMING",
+          "SARE COLY SALLE"
+        ],
+        "comard": []
+      },
+      {
+        "departement": "VELINGARA",
+        "communes": ["Velingara", "Kounkane", "Diaobe-Kabendou"],
+        "arronds": ["PAKOUR", "BONCONTO"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "LOUGA",
+    "departements": [
+      {
+        "departement": "KEBEMER",
+        "communes": ["Kebemer Gueoul", "BARKEDJI"],
+        "arronds": [
+          "NDANDE",
+          "DAROU MOUSTY",
+          "SAGATTA",
+          "Barkedji Gassane Thiarny Thiel"
+        ],
+        "comard": []
+      },
+      {
+        "departement": "LINGUERE",
+        "communes": ["Linguere", "Dahra"],
+        "arronds": ["DODJI", "YANG YANG"],
+        "comard": []
+      },
+      {
+        "departement": "LOUGA",
+        "communes": ["Louga"],
+        "arronds": ["COKI", "KEUR MOMAR SARR", "MBEDIENE", "SAKAL"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "MATAM",
+    "departements": [
+      {
+        "departement": "KANEL",
+        "communes": ["Kanel", "Ouaounde", "Semme", "Dembancane"],
+        "arronds": ["WOURO SIDY"],
+        "comard": []
+      },
+      {
+        "departement": "MATAM",
+        "communes": [
+          "Hamady",
+          "Hounare",
+          "Sinthiou",
+          "Bamambe-Banadji",
+          "Matam",
+          "Ourossogui",
+          "Thilogne"
+        ],
+        "arronds": ["ORKADIERE", "AGNAM CIVOL"],
+        "comard": []
+      },
+      {
+        "departement": "RANEROU FERLO",
+        "communes": ["Matam", "Ourossogui", "Thilogne", "Ranerou"],
+        "arronds": ["OGO", "VELINGARA"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "SAINT LOUIS",
+    "departements": [
+      {
+        "departement": "DAGANA",
+        "communes": [
+          "Dagana",
+          "Richard Toll",
+          "Rosso",
+          "Diama",
+          "Gae",
+          "Ross-Bethio"
+        ],
+        "arronds": ["NDIAYE", "MBANE"],
+        "comard": []
+      },
+      {
+        "departement": "PODOR",
+        "communes": [
+          "Podor",
+          "Gollere",
+          "Ndioum",
+          "Niandane",
+          "Mbouma",
+          "Guede",
+          "Chantier",
+          "Demette",
+          "Galoya",
+          "Toucouleur"
+        ],
+        "arronds": ["CAS", "GAMADJI SARE", "THILE BOUBACAR", "SALDE"],
+        "comard": []
+      },
+      {
+        "departement": "SAINT LOUIS ",
+        "communes": ["Saint Louis", "Mpal"],
+        "arronds": ["RAO"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "SEDHIOU",
+    "departements": [
+      {
+        "departement": "BOUNKILING",
+        "communes": ["Bounkiling", "Madina", "Wandifa"],
+        "arronds": ["BOGHAL", "BONA", "DIAROUME"],
+        "comard": []
+      },
+      {
+        "departement": "GOUDOMP",
+        "communes": ["Goudomp", "Samine", "Tanaff", "Diattacounda"],
+        "arronds": [
+          "DIAROUME",
+          "DJIBANAR",
+          "SIMBANDI BRASSOU",
+          "KARANTABA",
+          "DJIREDJI"
+        ],
+        "comard": []
+      },
+      {
+        "departement": "SEDHIOU",
+        "communes": ["Sedhiou", "Diannah", "Malary", "Marsassoum"],
+        "arronds": ["DJIBABOUYA"],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "TAMBACOUNDA",
+    "departements": [
+      {
+        "departement": "BAKEL",
+        "communes": ["Bakel", "Kidira", "Diawara"],
+        "arronds": ["BELE", "KENIEBA", "MOUDERY", "BOYNGUEL BAMBA"],
+        "comard": []
+      },
+      {
+        "departement": "GOUDIRY",
+        "communes": ["Goudiry", "Kothiary"],
+        "arronds": ["DIANKE MAKHA", "KOULOR", "BALA"],
+        "comard": []
+      },
+      {
+        "departement": "KOUPENTOUM",
+        "communes": ["Koumpentoum"],
+        "arronds": ["BAMBA THIALENE", "KOUTHIABA WOLOF", "MAKACOLIBANTANG"],
+        "comard": []
+      },
+      {
+        "departement": "TAMBACOUNDA",
+        "communes": ["Tambacounda"],
+        "arronds": ["MISSIRAH", "KOUSSANAR "],
+        "comard": []
+      }
+    ]
+  },
+  {
+    "region": "THIES",
+    "departements": [
+      {
+        "departement": "MBOUR",
+        "communes": [
+          "Joal",
+          "Joal-Fadhiouth",
+          "Diass",
+          "Nguekhokh",
+          "Thiadiaye",
+          "Saly",
+          "Saly-potudal",
+          "Ngaparou",
+          "Somone",
+          "Popenguine"
+        ],
+        "arronds": ["FISSEL", "SESSENE", "SINDIA", "THIENABA"],
+        "comard": ["malicounda"]
+      },
+      {
+        "departement": "THIES",
+        "communes": ["Thies", "Kayar", "Khombole", "Pout"],
+        "arronds": ["KEUR MOUSSA", "NOTTO", "MEOUANE"],
+        "comard": []
+      },
+      {
+        "departement": "TIVAOUANE",
+        "communes": ["Tivaouane", "Mboro", "Mekhe"],
+        "arronds": ["MERINA DAKHAR", "NIAKHENE", "PAMBAL"],
+        "comard": ["pire", "pire goureye"]
+      }
+    ]
+  },
+  {
+    "region": "ZIGUINCHOR",
+    "departements": [
+      {
+        "departement": "ZIGUINCHOR",
+        "communes": ["Ziguinchor"],
+        "arronds": ["NIAGUIS", "NIASSIA"],
+        "comard": []
+      },
+      {
+        "departement": "OUSSOUYE",
+        "communes": ["Oussouye"],
+        "arronds": [
+          "CABROUSSE",
+          "LOUDIA OUOLOF",
+          "KATABA 1",
+          "KATABA 2",
+          "KATABA 3"
+        ],
+        "comard": []
+      },
+      {
+        "departement": "BIGNONA",
+        "communes": ["Bignona", "Thionck-Essyl", "Diouloulou"],
+        "arronds": ["TENGHORI", "TENDOUCK", "SINDIAN"],
+        "comard": []
+      }
+    ]
+  }
+]
