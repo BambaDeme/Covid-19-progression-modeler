@@ -2,6 +2,7 @@ import sys
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import *
 from PyQt5.uic import loadUi
+import Download
 
 class Login(QDialog):
     def __init__(self):
@@ -10,7 +11,6 @@ class Login(QDialog):
         self.loginbutton.clicked.connect(self.loginfunction)
         self.password.setEchoMode(QtWidgets.QLineEdit.Password)
         self.password.returnPressed.connect(self.loginfunction)
-        #self.createaccbutton.clicked.connect(self.gotocreate)
 
     def loginfunction(self):
         login=self.login.text()
@@ -82,6 +82,7 @@ class Module1(QDialog):
 
     def downloadAndExtract(self):
         print("Downloading ...")
+        Download.downloader()
 
 
 class Module2(QDialog):
